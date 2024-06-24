@@ -57,14 +57,6 @@ By creating this project, I learned the following JavaScript concepts and techni
 4. **Random Number Generation**: Creating the game's sequence of button presses.
     
 5. **Conditional Logic**: Checking the user's input against the game's sequence and determining if the game should continue or end.
-   
-## Future Enhancements
-
-1. **Sound Effects**: Add sound effects for each button press to enhance the gameplay experience.
-2. **Mobile Optimization**: Optimize the game layout and controls for mobile devices.
-3. **Advanced Levels**: Introduce different difficulty levels with faster sequences and more colors.
-4. **Scoreboard**: Implement a scoreboard to keep track of high scores.
-5. **Animations**: Add smoother and more engaging animations for button presses and transitions.
 
 ## Installation
 
